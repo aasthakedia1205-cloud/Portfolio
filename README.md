@@ -25,6 +25,9 @@ I am a BCA student at VIT Vellore with a strong interest in Data Science, Machin
  **Project Link:**  
 https://github.com/aasthakedia1205-cloud/AQI_PREDICTION-ML
 
+###  CREDSTART UI Design (Figma)
+🔗 https://github.com/aasthakedia1205-cloud/CREDSTART-UI-Design
+
 ---
 
 ##  Key Visualizations

@@ -33,7 +33,7 @@ https://github.com/aasthakedia1205-cloud/AQI_PREDICTION-ML
 ![AQI Prediction](graph15.png)
 
 ###  Correlation Heatmap
-![Heatmap](grah5.png)
+![Heatmap](graph5.png)
 
 ### PCA Visualization
 ![PC1 PC2](graph13.png)
